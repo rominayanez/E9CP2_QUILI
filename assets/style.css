@@ -1,0 +1,12 @@
+.post-1__avatar{
+    max-width: 60px;
+    padding-top: 20px;
+}
+.img-caption{
+    border-radius: 20px;
+    max-width: 100%;
+    height: 250px;
+}
+.thumbnail{
+    border: none;
+}
